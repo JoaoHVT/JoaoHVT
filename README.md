@@ -15,7 +15,7 @@
 - Simulação e modelagem computacional  
 
 ### 📫 Como me encontrar:
-- 📧 Email: joaohvteixeira@gmail.com  
+- 📧 [Gmail](mailto:joaohvteixeira@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-henrique)  
 
 > "A melhor maneira de prever o futuro é criá-lo." – Alan Kay
