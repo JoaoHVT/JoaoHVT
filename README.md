@@ -3,11 +3,6 @@
 🎓 Estudante de **Engenharia de Produção** na **UFMG** — atualmente no **6º período**.  
 💼 Atuando como estagiário na **Vibracon Engenharia**, onde aplico meus conhecimentos em projetos reais.
 
-### 🧰 Tecnologias e Linguagens que utilizo:
-- 🐍 Python
-- 👾 C, C++, R
-- 📊 Excel + Power BI
-
 ### 🎯 Interesses:
 - Otimização e Pesquisa Operacional  
 - Engenharia de Métodos e Processos  
