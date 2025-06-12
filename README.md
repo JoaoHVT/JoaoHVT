@@ -1,4 +1,4 @@
-## 👋 Olá, eu sou o João Henrique Voss Teixeira!
+## 👋 Olá, eu sou o João Henrique!
 
 🎓 Estudante de **Engenharia de Produção** na **UFMG** — atualmente no **6º período**.  
 💼 Atuando como estagiário na **Vibracon Engenharia**, onde aplico meus conhecimentos em projetos reais.
