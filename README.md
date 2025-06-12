@@ -5,6 +5,7 @@
 
 ### 🧰 Tecnologias e Linguagens que utilizo:
 - 🐍 Python
+- 👾 C, C++, R
 - 📊 Excel + Power BI
 
 ### 🎯 Interesses:
