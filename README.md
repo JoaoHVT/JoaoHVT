@@ -1,6 +1,6 @@
 ## 👋 Olá, eu sou o João Henrique!
 
-🎓 Estudante de **Engenharia de Produção** na **UFMG** — atualmente no **8º período**.  
+🎓 Estudante de **Engenharia de Produção** na **UFMG** — atualmente no **9º período**.  
 💼 Atuando como estagiário na **Wabtec Corporation**, onde aplico meus conhecimentos em projetos reais.
 
 ### 🎯 Interesses:
