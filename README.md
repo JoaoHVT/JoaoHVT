@@ -65,9 +65,9 @@ Building an internal platform for **factory load, production scheduling and capa
 
 ---
 
-## 📈 Activity
+## 📈 GitHub
 
 <p align="left">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=JoaoHVT&show_icons=true&hide_border=true&theme=default" alt="GitHub stats"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoHVT&layout=compact&hide_border=true&theme=default" alt="Top languages"/>
+  <img src="https://img.shields.io/github/followers/JoaoHVT?style=flat-square&label=Followers&color=0A66C2" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/JoaoHVT?style=flat-square&label=Stars&color=F2C811" alt="Stars"/>
 </p>
