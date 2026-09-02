@@ -61,7 +61,7 @@ Building an internal platform for **factory load, production scheduling and capa
 
 ## 🚦 Interests
 
-`Operations Research` `Optimization` `Methods & Process Engineering` `Simulation & Computational Modeling` `Data Visualization` `Interactive Interfaces`
+`Operations Research` `Optimization` `Methods & Process Engineering` `Simulation & Computational Modeling` `Data Visualization`
 
 ---
 
